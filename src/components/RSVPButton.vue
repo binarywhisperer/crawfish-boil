@@ -77,6 +77,7 @@ export default {
   flex-wrap: wrap;
   &--div{
     width: 40%;
+    min-width: 400px;
   }
 
   &--button{

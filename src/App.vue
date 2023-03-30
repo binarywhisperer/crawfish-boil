@@ -1,26 +1,60 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div class="content-container">
+    <div class="content">
+      <section>
+        <CrawfishBoilHeader/>
+      </section>
+      <section>
+        <SpiceKreweLaunchDay/>
+      </section>
+      <section>
+        <RSVPButton/>
+      </section>
+      <section>
+        <WhatToExpect/>
+      </section>
+      <section>
+        <SpiceKreweAwards/>
+      </section>
+      <section class="footer">Made by <a href="https://brycesharp.com">Bryce</a> 2023</section>
+    </div>
+  </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import RSVPButton from './components/RSVPButton.vue'
+import SpiceKreweAwards from './components/SpiceKreweAwards.vue'
+import SpiceKreweLaunchDay from './components/SpiceKreweLaunchDay.vue'
+import CrawfishBoilHeader from './components/CrawfishBoilHeader.vue'
+import WhatToExpect from './components/WhatToExpect.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    RSVPButton,
+    SpiceKreweAwards,
+    SpiceKreweLaunchDay,
+    CrawfishBoilHeader,
+    WhatToExpect,
   }
 }
 </script>
 
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.content-container {
+  display: flex;
+  justify-content: center;
+
+  .content {
+    max-width: 1200px;
+    width: 80vw;
+  }
+}
+.footer{
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+  background: #fefefe;
+  color: rgba(0,0,0,.5);
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

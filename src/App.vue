@@ -47,7 +47,7 @@ export default {
 
   .content {
     max-width: 1200px;
-    width: 80vw;
+    width: 100vw;
   }
 }
 .footer{

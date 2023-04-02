@@ -3,11 +3,12 @@
     <section class="rsvp-tuple">
       <div class="rsvp-tuple--div">
         <figure>
-          <img alt="RSVP and 2 Crawfish" src="../assets/rsvp.png"/>
+          <img alt="RSVP and 2 Crawfish" src="../assets/rsvp-min.jpg"/>
         </figure>
       </div>
       <div class="rsvp-tuple--button--wrapper rsvp-tuple--div">
         <div>
+          <h1>Crawfish Boil RSVP</h1>
           <p>RSVP when you pay through PayPal. Add multiples in PayPal interface. Don't forget to come back for your drinks</p>
           <div class="rsvp-tuple--button">
             <section>

@@ -2,7 +2,7 @@
   <section class="content-section">
     <h2>What to Expect</h2>
     <ul>
-      <li>April, 11th at Noon</li>
+      <li>April 22nd, 1pm - 6pm</li>
       <li>Good eatin' Crawfish, Potatoes, Corn, Sausage and more!</li>
       <li>A large side yard with plenty of room for you to bring the whole family. Bring your own chairs</li>
       <li>Music, games and good friends</li>

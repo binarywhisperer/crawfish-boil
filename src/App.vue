@@ -16,7 +16,7 @@
       <section>
         <SpiceKreweAwards/>
       </section>
-      <section class="footer">Made by <a href="https://brycesharp.com">Bryce</a> 2023</section>
+      <section class="footer">Made by <a href="https://brycesharp.com">Bryce</a> 2024</section>
     </div>
   </div>
 </template>

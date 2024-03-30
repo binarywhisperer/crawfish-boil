@@ -1,17 +1,18 @@
 <template>
   <section class="content-section">
+    <h2>April 20th, 12pm - 6pm</h2>
     <h2>What to Expect</h2>
     <ul>
-      <li>April 22nd, 1pm - 6pm</li>
       <li>Good eatin' Crawfish, Potatoes, Corn, Sausage and more!</li>
-      <li>A large side yard with plenty of room for you to bring the whole family. Bring your own chairs</li>
+      <li>A large side yard with plenty of room for you to bring the whole family and your favorite yard games. Bring your own chairs.</li>
       <li>Music, games and good friends</li>
+      <li>Spice Krewe flavors and merch available!</li>
     </ul>
     <h2>New This Year!</h2>
     <ul>
-      <li>A brief history of the Crawfish Boil</li>
-      <li>Spice Krewe Launch, Spice and Merch table!</li>
-      <li>Spice Krewe Awards!</li>
+      <li>Spice Krewe MC and events!</li>
+      <li>Pardoning of the Crawfish</li>
+      <li>Celebration of the boil team and paddle presentation</li>
     </ul>
   </section>
 </template>

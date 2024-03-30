@@ -2,7 +2,7 @@
   <section>
     <div class="logo">
       <figure>
-        <img alt="Spice Krewe official launch at this year's boil" src="../assets/launch-min.png"/>
+        <img alt="Spice Krewe official launch at this year's boil" src="../assets/flavor-min.png"/>
       </figure>
     </div>
   </section>

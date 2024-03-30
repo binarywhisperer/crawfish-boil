@@ -1,7 +1,7 @@
 <template>
   <div class="logo">
     <figure>
-      <img alt="Spice Krewe official launch at this year's boil" src="../assets/meet-the-spice-krewe-min.png"/>
+      <img alt="Spice Krewe official launch at this year's boil" src="../assets/flavor-spice-krewe-min.png"/>
     </figure>
   </div>
 </template>

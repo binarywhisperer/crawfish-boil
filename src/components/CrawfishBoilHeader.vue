@@ -2,7 +2,7 @@
   <section class="header">
     <div class="logo">
       <figure>
-        <img alt="James and Keisha's Crawfish Boil. 13th Annual" src="../assets/header-min.png"/>
+        <img alt="James and Keisha's Crawfish Boil. 13th Annual" src="../assets/header-2-min.png"/>
       </figure>
     </div>
   </section>

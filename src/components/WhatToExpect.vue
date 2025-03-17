@@ -1,6 +1,6 @@
 <template>
   <section class="content-section">
-    <h2>April 20th, 12pm - 6pm</h2>
+    <h2>April 26th, 12pm - 6pm</h2>
     <h2>What to Expect</h2>
     <ul>
       <li>Good eatin' Crawfish, Potatoes, Corn, Sausage and more!</li>
@@ -8,12 +8,16 @@
       <li>Music, games and good friends</li>
       <li>Spice Krewe flavors and merch available!</li>
     </ul>
-    <h2>New This Year!</h2>
+    <h2>Back Again This Year!</h2>
     <ul>
-      <li>Spice Krewe MC and events!</li>
-      <li>Pardoning of the Crawfish</li>
-      <li>Celebration of the boil team and paddle presentation</li>
+      <li>Bryce as the <strong>Spice Krewe MC</strong></li>
+      <li><strong>Pardoning of the Crawfish</strong></li>
+      <li><strong>Spicy Disc Golf Competition</strong></li>
+      <li><strong>2025 Paddle Presentation</strong> and celebration of the boil team</li>
     </ul>
+    <figure>
+      <img alt="Paddles representing the first 13 years and 2024" src="../assets/paddles-min.png"/>
+    </figure>
   </section>
 </template>
 
